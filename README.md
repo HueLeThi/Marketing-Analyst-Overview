@@ -35,19 +35,5 @@ Phân tích hành vi người dùng trên website/app từ dữ liệu GA4: lư�
 - Custom metrics: session duration, new vs returning users,...
 - Drill-down theo thời gian & thiết bị
 
----
-
-## 📂 File đính kèm
-- `marketing_overview.pbix`
-- `ga4_analysis.pbix`
-
 > 📝 Dữ liệu đã được làm sạch và giả lập cho mục đích học tập/trình bày portfolio.
-
----
-
-## 📧 Liên hệ
-
-Nếu bạn muốn trao đổi thêm về project này hoặc cần chia sẻ bản trình bày chi tiết:
-- 📩 Email: [tenban@example.com]
-- 💼 LinkedIn: [linkedin.com/in/tenban]
 
